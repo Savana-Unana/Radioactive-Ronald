@@ -1,0 +1,16 @@
+Main Character:
+    has a gun:
+        limited amo (Regenerated or Amo Packs)
+        No aim, only still shooter
+
+    Movements:
+        Run
+        Jump
+        Die
+
+    Health Bar:
+
+
+Enemies:
+    Some have guns
+    Others Shoot Acid at you
